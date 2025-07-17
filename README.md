@@ -4,7 +4,7 @@ This project aims to detect speech disorders in Arabic-speaking children using d
 
 The goal is to support early intervention by providing a fast, objective, and automated tool to classify Arabic speech samples as either **normal** or **disordered**.
 
-## 🧠 Project Overview
+##  Project Overview
 
 Traditional diagnosis of speech disorders relies on human judgment, which can be time-consuming and subjective. Our system uses audio signal processing and deep learning to automatically analyze Arabic speech and detect potential pronunciation issues in children.
 
